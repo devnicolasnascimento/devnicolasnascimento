@@ -1,4 +1,8 @@
-# Olá! seja bem-vindo(a). 💻
+# Olá! seja <em>bem-vindo(a).</em> 💻 
+
+. ݁₊ ⊹ . ݁ ⟡ ݁ . ⊹ ₊ ݁.
+
+
 
 <br>
 
