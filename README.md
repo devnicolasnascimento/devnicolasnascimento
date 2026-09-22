@@ -1,11 +1,8 @@
-<span style="font-family: poppins; font-size: 60px; line-height: 1"> **Nicolas Nascimento. 👋**</span>
+# **Nicolas Nascimento. 👋**
 
 `Desenvolvedor full-stack.`
 
-<hr>
 
-<br>
-<br>
 
 <div style="display: flex; align-items: center; gap: 10px">
 
@@ -16,9 +13,9 @@
 
 <br><br>
 
-<hr>
 
-<div data-importer="socials" align="left" style="; display: flex; justify-content: center; padding: 10px; border-radius: 5px">
+
+<div data-importer="socials" align="left" style=";">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="52" height="40" alt="behance logo"  />
