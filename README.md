@@ -47,11 +47,3 @@ Estou constantemente aprendendo e aprimorando minhas habilidades em tecnologia e
 - 💡 Buscando transformar ideias em projetos reais
 
 
-
----
-
-<div align="center">
-
-### 🚀 Sempre aprendendo, sempre construindo.
-
-</div>
